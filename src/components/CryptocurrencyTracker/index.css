@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.divStyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #000000;
+}
+.head {
+  color: #00e7ff;
+}
